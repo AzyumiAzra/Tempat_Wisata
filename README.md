@@ -1,6 +1,8 @@
 # lawangsewu
-Dewi Maharani
-3.34.21.3.07
-IK-2D
+<br> Azyumi Azra
+<br> 3.34.21.3.05
+<br> IK-2D
 ## Pertemuan ke 8
-![alt text](https://user-images.githubusercontent.com/116903708/198935767-c4dc265d-153e-4b9f-8917-236725420d03.png)
+
+![tempat wisata](https://user-images.githubusercontent.com/116933838/212307098-e0690278-31e8-4c28-a213-c846e68b720f.png)
+
